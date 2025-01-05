@@ -118,7 +118,7 @@ This project integrates reliable, up-to-date data from federated sources, ensuri
 
 ## Conclusion
 
-The **COVID-19 Vaccine Tracker** is a powerful tool that visualizes critical vaccination data and uncovers socio-economic trends affecting vaccine distribution. This project demonstrates expertise in Tableau, data analysis, and visualization, making it a standout addition to any data analyst portfolio.
+The **COVID-19 Vaccine Tracker** is a powerful tool that visualizes critical vaccination data and uncovers socio-economic trends affecting vaccine distribution. This project demonstrates expertise in Tableau, data analysis, and visualization.
 
 
 
