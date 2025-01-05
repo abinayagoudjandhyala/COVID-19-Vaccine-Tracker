@@ -1,4 +1,4 @@
-# README for COVID-19 Vaccine Tracker Project
+# COVID-19 Vaccine Tracker Project
 
 ## Overview
 The **COVID-19 Vaccine Tracker** is a comprehensive Tableau dashboard designed to analyze global COVID-19 vaccination rates, coverage, and distribution trends. It provides critical insights into the progress of vaccination campaigns worldwide, the impact of socio-economic factors, and highlights disparities in vaccine access. This project is a showcase of advanced data visualization and analytical skills, making it a valuable addition to a data analyst portfolio.
